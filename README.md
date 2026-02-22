@@ -1,5 +1,8 @@
 # 🦞 OpenClaw — Personal AI Assistant
 
+Practice change: learning Git workflow on 2026-02-22
+
+
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png">
